@@ -56,4 +56,4 @@
 *Created with ❤️ for education.*
 
 ## **🎮 Live (Demo)**
-🎮 Live (Demo) : https://ponlakrit-5.github.io/Human-Body-V05
+🎮 Live (Demo) : https://ponlakrit-5.github.io/human-body-v05/
